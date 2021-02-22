@@ -1,0 +1,12 @@
+key.HAC_Forward=HAC_Forward
+key.HAC_Backward=HAC_Backward
+key.HAC_TurnRight=HAC_TurnRight
+key.HAC_TurnLeft=HAC_TurnLeft
+key.HAC_Up=HAC_Up
+key.HAC_Down=HAC_Down
+key.HAC_Right=HAC_Right
+key.HAC_Left=HAC_Left
+key.HAC_Stop=HAC_Stop
+key.HAC_Terminate=HAC_Terminate
+key.HAC_Camera=HAC_Camera
+tile.Pyxis.name=Pyxis

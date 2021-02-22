@@ -1,0 +1,12 @@
+key.HAC_Forward=はりぼて前進
+key.HAC_Backward=はりぼて後退
+key.HAC_TurnRight=はりぼて右旋回
+key.HAC_TurnLeft=はりぼて左旋回
+key.HAC_Up=はりぼて上昇
+key.HAC_Down=はりぼて下降
+key.HAC_Right=はりぼて右スライド
+key.HAC_Left=はりぼて左スライド
+key.HAC_Stop=はりぼて停止
+key.HAC_Terminate=はりぼて終了
+key.HAC_Camera=カメラ距離変更
+tile.Pyxis.name=羅針盤
